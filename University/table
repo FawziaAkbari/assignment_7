@@ -1,0 +1,8 @@
+Student:
+    student_id, name, lastname, gender, email, photo, address 
+Teacher:
+    teacher_id, name, lastname, position, gender, photo, email, address
+Class:
+    class_id, class_name, start_date end_date, time, teacher
+Salary:
+    salary_id, teacher_id, amount, remain_salary, paid
